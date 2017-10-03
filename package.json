@@ -1,0 +1,25 @@
+{
+  "name": "exploding-dots-counter",
+  "version": "1.0.0",
+  "description": "A never-ending Exploding Dots counter",
+  "license": "Apache-2.0",
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  },
+  "main": "thing.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianp/exploding-dots-counter.git"
+  },
+  "author": "Christian Lawson-Perfect",
+  "bugs": {
+    "url": "https://github.com/christianp/exploding-dots-counter/issues"
+  },
+  "homepage": "https://github.com/christianp/exploding-dots-counter#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0"
+  }
+}
