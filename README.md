@@ -1,5 +1,7 @@
 # Exploding Dots counter
 
+[Exploding Dots](http://gdaymath.com/courses/exploding-dots/) is James Tanton's thing.
+
 It just keeps counting.
 
 ## Building
